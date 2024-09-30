@@ -1,6 +1,6 @@
 #!/bin/python3
-# https://github.com/VritraSecz
-# Code By: VritraSecz
+# https://github.com/Afod2000
+# Code By: Carderbro
 # Don't be copycat create your own
 
 import huggingface_hub
